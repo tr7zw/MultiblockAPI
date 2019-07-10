@@ -1,0 +1,10 @@
+name: MultiblockAPI
+main: net.toxiic.multiblock.Main
+version: "1.0"
+api-version: 1.13
+depend: [ WorldEdit, ItemNBTAPI ]
+commands:
+   multiblock:
+      description: Base Command
+      usage: /<command>
+      aliases: [ mb ]
