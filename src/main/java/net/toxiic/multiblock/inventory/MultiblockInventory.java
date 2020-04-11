@@ -1,4 +1,4 @@
-package net.toxiic.multiblock.inventory;
+/*package net.toxiic.multiblock.inventory;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -48,3 +48,4 @@ public class MultiblockInventory {
 		}
 	}
 }
+*/
